@@ -11,7 +11,7 @@ git remote set-head origin -a
 <li> LsR </li>
 <li> DcsTR </li>
 <li> RdFrR </li>
-<li> XGG </li>
+<li> XGB </li>
 <li> Deployment in Heroku </li>
 <li> ANN </li>
 <li> KNN </li>
